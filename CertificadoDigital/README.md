@@ -1,7 +1,5 @@
-Trabalho 4: - Implementar programa que lê um arquivo e produz uma assinatura digital.
-	   
-	    - Implementar um programa que verifica a assinatura gerada. 
-
+Trabalho 4: - Implementar programa que lê um arquivo e produz uma assinatura. Implementar um programa que verifica a assinatura gerada.
+     
 Linha de comando para assinatura: python cdigital.py assinatura 'file'
 
 Linha de comando para verificar assinatura: python cdigital.py verifica 'file' 'certi'
