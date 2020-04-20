@@ -1,2 +1,2 @@
-# Segurança e auditoria de sistemas 2016/2
-Implementação de trabalhos propostos na Disciplina de Segurança e Auditoria de sistemas
+### Algoritmos de Criptografia para Segurança e auditoria de sistemas
+Implementação em Python de trabalhos propostos na matéria de Segurança e Auditoria de sistemas
